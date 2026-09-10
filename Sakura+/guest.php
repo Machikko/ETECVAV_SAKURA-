@@ -1,0 +1,7 @@
+<?php
+require_once 'config/auth.php';
+
+criarSessaoGuest();
+
+header('Location: index.php');
+exit;
