@@ -101,4 +101,4 @@ Este site não hospeda, distribui, reproduz, transmite ou disponibiliza arquivos
 Este projeto não reivindica a propriedade de qualquer conteúdo protegido por direitos autorais e não possui afiliação, parceria ou endosso oficial de quaisquer estúdios, editoras, plataformas de streaming ou empresas relacionadas.
 Caso algum titular de direitos considere que determinado conteúdo viola seus direitos, entre em contato para que as medidas apropriadas possam ser tomadas.
 
-<img src="Sakura+/repo/gats.png" width="1000" height="1500" align="center">
+<img src="Sakura+/repo/punpun.png" width="2000" align="center">
