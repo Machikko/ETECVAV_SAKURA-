@@ -101,4 +101,9 @@ Este site não hospeda, distribui, reproduz, transmite ou disponibiliza arquivos
 Este projeto não reivindica a propriedade de qualquer conteúdo protegido por direitos autorais e não possui afiliação, parceria ou endosso oficial de quaisquer estúdios, editoras, plataformas de streaming ou empresas relacionadas.
 Caso algum titular de direitos considere que determinado conteúdo viola seus direitos, entre em contato para que as medidas apropriadas possam ser tomadas.
 
+## Declaração de uso de IA
+
+Foi utilizada Inteligência Artificial como ferramenta de auxílio durante o desenvolvimento do projeto, especificamente para suporte na elaboração, organização e ajustes do código CSS e algumas funções como as curtidas. A IA foi utilizada 
+como recurso de consulta e orientação.
+
 <img src="Sakura+/repo/punpun.png" width="2000" align="center">
