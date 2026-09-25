@@ -103,7 +103,8 @@ Caso algum titular de direitos considere que determinado conteúdo viola seus di
 
 ## Declaração de uso de IA
 
-Foi utilizada Inteligência Artificial como ferramenta de auxílio durante o desenvolvimento do projeto, especificamente para suporte na elaboração, organização e ajustes do código CSS e algumas funções como as curtidas. A IA foi utilizada 
+Foi utilizada Inteligência Artificial como ferramenta de auxílio durante o desenvolvimento do projeto, especificamente para suporte na elaboração, organização e ajustes do código CSS e algumas funções como as curtidas, e efeitos de cursor
+. A IA foi utilizada 
 como recurso de consulta e orientação.
 
 <img src="Sakura+/repo/punpun.png" width="2000" align="center">
